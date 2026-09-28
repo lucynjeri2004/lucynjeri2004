@@ -51,4 +51,4 @@ I am **learning** GitHub and *Markdown* so I can use `git commit` effectively.
 ```python
 print("Hello, GitHub!")
 name = "Student"
-print("My name is", name)
+print("My name is", njeri)
