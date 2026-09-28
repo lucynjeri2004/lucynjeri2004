@@ -1,16 +1,33 @@
-## Hi there 👋
+ > Hi, I'm Lucy
 
-<!--
-**lucynjeri2004/lucynjeri2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student currently on industry attachment, with hands-on experience in academic and practical projects.
 
-Here are some ideas to get you started:
+>> Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- HTML & CSS
+- SQL
+- Git & GitHub
+- JavaScript 
+
+>> Interests
+
+- Software Engineering
+- Web Development
+- Databases
+- Technology
+
+>> Projects
+
+-Web Development Projects
+- Database Projects
+- Programming Projects
+
+>> Currently
+
+Gaining practical industry experience and expanding my technical skills.
+
+Connect; lucynjeri2004.
+Email ;lucywanjama0707@gmail.com
+
