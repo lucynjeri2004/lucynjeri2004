@@ -30,4 +30,6 @@ Gaining practical industry experience and expanding my technical skills.
 
 Connect; lucynjeri2004.
 Email ;lucywanjama0707@gmail.com
+</> Markdown
+Currently improving my skills in Git andGitHub
 
